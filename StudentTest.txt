@@ -1,0 +1,15 @@
+Test Case 1:
+Input:
+Add Student => ID: 1, Name: Abhishek, Course: CSE
+Expected Output:
+Student added successfully.
+
+Test Case 2:
+Search ID 1
+Expected:
+Student Found
+
+Test Case 3:
+Search ID 99
+Expected:
+No student found
